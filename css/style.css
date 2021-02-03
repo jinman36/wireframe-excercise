@@ -62,6 +62,7 @@ nav {
   main h2 {
     margin-left: 30px;
     font-size: 20px;
+    font-style: italic;
   }
 
   main p {
@@ -69,7 +70,6 @@ nav {
     overflow: auto;
     margin-top: 5px;
     margin-left: 30px;
-    font-style: italic;
     line-height: 20px;
   }
 
